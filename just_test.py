@@ -2,7 +2,7 @@
 
 import functions as f, classes as c
 
-# Here my Program tells the World, we exist
+# Here the Program tells the World, it exists
 print("Hello World")
 
 # Und jetzt macht er was neues, indem er den User nach seinem Alter fragt
