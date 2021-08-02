@@ -9,3 +9,15 @@ age = int(input("Bitte gib dein alter ein: "))
 
 # Und jetzt gibt er das alter aus.
 print("und du bist ", age, "Jahre alt.")
+
+
+# Und dann Begginen wir hier mit Objekten
+
+# Erstmal machen wir und eine Bauplan für Unser Objekt
+class Unser_Objekt:
+    pass
+
+# Dann erschaffen wir eine erste Instanz von dem Objekt
+erster = Unser_Objekt()
+
+print(type(erster))
