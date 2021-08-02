@@ -1,5 +1,6 @@
 """ Hello, I am new to Git and GitHub and I am just testing how it works"""
 
+import functions as f, classes as c
 
 # Here my Program tells the World, we exist
 print("Hello World")
@@ -20,4 +21,6 @@ class Unser_Objekt:
 # Dann erschaffen wir eine erste Instanz von dem Objekt
 erster = Unser_Objekt()
 
-print(type(erster))
+
+# Ein versuch die Funktion hurra() mit dem Parameter 2 von hier aus aufzurufen
+print(f.hurra(2))
