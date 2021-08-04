@@ -3,7 +3,9 @@
 
 # Eine erste Klasse könnte ein user seuin
 class User:
-    pass
+    def __init__(self):
+        self.name = "unknown"
+        self.age = "unknown"
 
 
 # Eine andere sollte unbedingt ein Bagger sein
