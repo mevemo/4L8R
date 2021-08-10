@@ -4,11 +4,14 @@
 print ("Hello World")
 
 # to get input over the system standart input and store it in a variable
-user_input = input("Please give me some input")
+user_input = input("Please give me some input: ")
 
 # define a Value and store it in a variable
 y = 56
 x = 65
+
+# to display the stuff within a string we use a Formatstring or f-string
+print (f"The value of x is {x} and the value of y is {y}! and ur input was: {user_input}")
 
 # A function that does nothing
 def nothing():
@@ -40,3 +43,30 @@ print("Stuff") if x  >y else print("Different Stuff") if x ==y else print("all t
 # Here a single statement in short hand
 if x > y: print("Yes a is bigger")
 
+# recursion, iteration over range() and over the elements of a list 
+
+# recursive solution for the nth fibunacci number (because it calls itself to find the solution) 
+def fib(n):
+    """This function takes a natural number n as input and returns the Nth fibunacci number """
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 1
+    else:
+        return fib(n-1) + fib(n-2)
+
+# Objects
+class Bagger:
+    pass
+
+# Objects with fields aka Variables of Objects
+class Bagger:
+    name = "Bagger_Name"
+    color = "yellow"
+
+#to access an objets fields you have to type the Object first and the field after a point
+cat = Bagger()
+print(cat.color)
+
+
+# Objects with funktions 
