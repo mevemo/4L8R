@@ -1,0 +1,97 @@
+Begrifflichkeiten
+
+FAT = File Allocation Table  # Kann ich nicht gegen einen direkten Zugriff an der Maschine schützen 
+
+_____________________________________________________________________________________
+
+
+Enumeration = Auflisten, Aufzählen
+
+Eskalation = Etwas auf die nächste Stufe bringen
+
+
+
+Physisch:
+
+- Tailgetting  /  "Können Sie mir kurz die Tür aufhalten" fragte der Postbote den Sicherheitsdienst
+- Unautorisierter Zugang / Irisscanner, 
+- Unautorisierter Zugriff / ein Mitarbeiter hat vergessen sich Abzumelden / Fort- und Weiterbildung
+- Schulter Surfing / dem anderen über die Schulter schauen (Lösung: Monitorfolie)
+- Dumpster Diving / Ist das klauen vom Papierkorb  (Lösung: Partikelschnitt)
+
+
+Virtuell:
+
+- Phishing     /  relativ ziellos per mail Personen zur eingabe von Daten ködern
+- Spear Phishing / eine Spezielle Zielgruppe in der Leitung einer organisation erwischen
+- Whaling		/ Den allerdicksten Fisch als Ziel nehmen
+- Vishing      / Voice Phishing, also per Telefon die leute nach Sahen fragen 
+			     (10,5 Milliarden 2018 nur USA)
+- Hoax  / Warnung vor einem Virus
+- Spam  / z.B. Potenzmittel , "Klicken Sie hier, wenn alles besser werden soll"
+- Spim / Spam im Instant messaging
+- Watering Hole Attack / Das "Wasserloch" der Mitarbeiter wird infiziert (z.B. wichtige Betrieblich genutzte drittseiten)
+
+
+Gegnmaßnahmen:
+
+spoof@ebay.de oder spoof@paypal.de.   # 
+
+
+SNMP
+POP 3 Post office Protocol / 
+SMTP Simple Mail Transfer protocol / schickt mails / Es überträgt zuerst Benutzername und Passwort im Klartext
+IMAP / Internet message Access Protocol -> Ruft ab,  / Kann Direktories
+
+
+
+Wichtige Ports:
+
+  20 - TCP     - FTP (Datenübertragung)
+  21 - TCP/UDP - FTP (Verbindungsaufbau / Steuerung)
+  22 - TCP/UDP - SSH (Secure Shell )
+  23 - TCP	   - Telnet (unverschlüsselt)
+  25 - TCP	   - SMTP  (Simple Mail Transfer Protoco)
+  53 - TCP/UDP - DNS  (Domain Name System)
+  80 - TCP     - HTTP  (Hypertext Transfer Protocol)
+ 110 - TCP     - popP3  (Post Office Protocol v3)
+ 115 - TCP     - SFTP  (Simple File Transfer Protocol)
+ 161 -     UDP - SNMP  (Simple Network Management Protokol )
+ 162 - TCP/UDP - SNMP Trap  (Simple Network Management Protokol Trap)
+ 220 - TCP/UDP - IMAP  (Internet Message Access Protocol, version 3)
+ 443 - TCP     - HTTPS (Hypertext Transfer Protocol over SSL/TLS)
+3389 - TCP/UDP - RDP  (Microsoft Terminal Server), offiziell (WBT)
+
+
+Bei dem Replayangriff versuche ich mich in die mitte eines Verschlüsselungsverfahrens zu stellen. 
+
+Alles was Sie eingeben Fange ich ab, 
+
+sie besuchen meine Website (manipuliert) und geben dort ihre passworte ein, und ich fang
+
+
+Meine Malware schaut nach dem Lesezeichen "Hamburger Bank" 
+
+Replay angriff resultiert aus Phishing und ist ähnlichder  Form der Man in the Middle Attack, dabei aber eine Online / Logische variante. Ich hole mir 
+
+
+Es kann Hash-Werte erzeugen:
+Künstlich erzeugte Datei in der "vorberechnete/ bekannte / vorberechnete" Algorythmen 
+
+
+EINE HASHWERT IST EINE KRYPTOLOGISCH ERZEUGTE PRÜFSUMME! dieser Wert ist einzigartig
+
+
+RAINBOWTABLES sind zur erzeugung Hashwerten und zu versuchen sich mit dem Hashwerten einzuloggen. 
+Ist wie Brutforce, aber mit Hashwerten (In den Rainbowtables sind Hashwerte üblicher Passwords enthalten)
+________________________________________________________________________________________________________
+
+Aktonym (was heißt das?)
+
+
+MBR  		-		Master Boot Record
+
+Shell 		- 		Ist eine umgebung in der ein Komandozeilenterminal läuft
+
+Algorithmus	- 		ist die präzise Beschreibung, einer allgemeinen Methode, zur Lösung einer Aufgabe, als folge von Schritten.
+
