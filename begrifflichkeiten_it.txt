@@ -86,7 +86,7 @@ RAINBOWTABLES sind zur erzeugung Hashwerten und zu versuchen sich mit dem Hashwe
 Ist wie Brutforce, aber mit Hashwerten (In den Rainbowtables sind Hashwerte üblicher Passwords enthalten)
 ________________________________________________________________________________________________________
 
-Aktonym (was heißt das?)
+Akronym (was heißt das?)
 
 
 MBR  		-		Master Boot Record
