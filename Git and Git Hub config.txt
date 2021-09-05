@@ -1,0 +1,3 @@
+C:\Users\Student>git config --global user.email "info@mevemo.de"
+
+C:\Users\Student>git config --global user.name "Maik Heinrich"
