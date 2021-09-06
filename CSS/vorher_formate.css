@@ -1,0 +1,46 @@
+/* mein Versuch einer Vorbereitung */
+body {
+    width: 80%;
+    min-height: 100%;
+    margin: 0 auto; /*  damit gehts direkt in die Mitte 
+    
+                        Aber der Rest darf keine width abgaben mehr haben 
+                                !!!     !!!     !!!    
+                    */
+}
+#navi {
+    float: left;
+   /* width: 20%; */
+    color: #90ee90;
+    background-color: grey;
+}
+
+#inhalt {
+    margin-left: 25%;
+    /* width: 60%; */
+    background-color: lightgreen;
+}
+
+#kopf {
+    background-color: black;
+    /* width: 85%; */
+    color: #90ee90;
+    text-align: center;
+}
+
+#fuss {
+    float: bottom;
+    background-color: grey;
+    /* width: 85%; */
+    color: #90ee90;
+    text-align: center;
+}
+
+h1 {
+    font: 300% bold;                /* Schrift kombiniert 3x so groß wie norm. && Fett */
+}
+
+.wichtig {                          /*   HIER IST DIE < ** class="wichtig">  DEKLARATION */
+    color: #ffff00;
+    font-size: 1.5em;               /* Schriftgröße auf das anderthalbfache  */
+}

@@ -1,0 +1,43 @@
+#text {
+    float: left;
+    width: 70%;
+}
+
+#images {
+    float: right;
+    width: 30%;
+}
+
+#images img {
+    margin-bottom: 25px;
+    padding: 5px;
+}
+
+.blume {
+    width: 100%;
+}
+
+h1, h2, h3, p, a {
+    color: #d6f5d6;
+	font-family: Arial, Helvetica, sans-serif;
+}
+	
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+a {
+    font-size: 1em;
+}
