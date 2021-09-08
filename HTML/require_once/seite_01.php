@@ -6,7 +6,7 @@
 </header>
 
 <section>
-huhu
+Inhalt Seite 01
 </section>
 
 <footer>
