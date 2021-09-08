@@ -1,0 +1,26 @@
+CSS: 
+#pup {
+  position:absolute;
+  z-index:200; /* aaaalways on top*/
+  padding: 3px;
+  margin-left: 10px;
+  margin-top: 5px;
+  width: 250px;
+  border: 1px solid black;
+  background-color: #777;
+  color: white;
+  font-size: 0.95em;
+}
+
+HTML: 
+jeden Begriff mit <a> "wrappen" (umschließen), Bild auswählen.. 
+
+<dt> <a onmouseover="nhpup.popup('Bild zum Begriff: <br/><br/> <img src=&quot;../media/glossary.jpg&quot;/>', {'width': 200});">Begriff 1</a></h4></dt>
+
+<dd> .... </dd>
+
+---------------
+
+
+
+
