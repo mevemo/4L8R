@@ -5,7 +5,7 @@
     <title> HTML Basics </title>
     <!-- <meta http-equiv="refresh" content="2; url=https://www.mozilla.org"> -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script>
-    <script src="../js/pup.js" defer></script>
+    <script src="pup.js" defer></script>
 
     
 
