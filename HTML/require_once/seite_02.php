@@ -6,7 +6,7 @@
 </header>
 
 <section>
-hzzhzhzhz
+Inhalt Seite 02
 </section>
 
 <footer>
