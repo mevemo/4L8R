@@ -13,8 +13,8 @@
 
 <body>
     <dl>
-        <dt> <a onmouseover="nhpup.popup('So habe ich das gemacht: <br/><br/> <img src=&quot;guess_who.png&quot;/>', 
-                {'width': 200});">Begriff 1</a></h4></dt>
-        <dd> Beschreibung des Begriffs</dd>
+        <dt> Begriff 1</dt>
+        <dd> <a onmouseover="nhpup.popup('So habe ich das gemacht: <br/><br/> <img src=&quot;guess_who.png&quot;/>', 
+                {'width': 200});">Beschreibung des Begriffs</a></dd>
     </dl>
 </body></html>
