@@ -9,7 +9,7 @@ Inhalt Seite 01
 
     <dl>
         <dt> Grafik 1</dt>
-            <dd> <a onmouseover="nhpup.popup('DIES IST DER CODE DAZU: <br/><br/> <img src=&quot;guess_who.png&quot;/>', 
+            <dd> <a onmouseover="nhpup.popup('DIES IST DER CODE DAZU: <br/><br/> <img src=&quot;img&#47;guess_who.png&quot;/>', 
                 {'width': 200});">#1 Simply Square</a></dd>
 
         <dt> Begriff 1</dt>
