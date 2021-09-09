@@ -5,12 +5,18 @@
 Inhalt Seite 01
 </header>
 
-<section>
+<section class="section">
 
-<dl>
-        <dt> <a onmouseover="nhpup.popup('So habe ich das gemacht: <br/><br/> <img src=&quot;guess_who.png&quot;/>', 
-                {'width': 200});">Begriff 1</a></h4></dt>
-        <dd> Beschreibung des Begriffs</dd>
+    <dl>
+        <dt> Grafik 1</dt>
+            <dd> <a onmouseover="nhpup.popup('DIES IST DER CODE DAZU: <br/><br/> <img src=&quot;guess_who.png&quot;/>', 
+                {'width': 200});">#1 Simply Square</a></dd>
+
+        <dt> Begriff 1</dt>
+            <dd> <a onmouseover="nhpup.popup('So habe ich das gemacht: <br/><br/> <img src=&quot;guess_who.png&quot;/>', 
+                {'width': 200});">Beschreibung des Begriffs</a></dd>
+
+
     </dl>
 </section>
 
