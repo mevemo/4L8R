@@ -12,15 +12,16 @@
   }
 
 .section {
+    margin: 0 auto;
     width: 600px;
-    position:relative
-    left: 50px;
+    position:relative;
+    left: 0px;
     background-color: #4CAAB3;
     color: #393E46;
-}
+  }
 
 body {
     background-color: #222730;
     color: #4CAAB3;
 
-}
+  }

@@ -8,9 +8,12 @@ Inhalt Seite 01
 <section class="section">
 
     <dl>
-        <dt> Grafik 1</dt>
-            <dd> <a onmouseover="nhpup.popup('DIES IST DER CODE DAZU: <br/><br/> <img src=&quot;img&#47;guess_who.png&quot;/>', 
-                {'width': 200});">#1 Simply Square</a></dd>
+        <dt>#01</dt>
+            <dd>
+                <img src="img/01_img.png" alt="Simply Square" 
+                onmouseover="nhpup.popup('DIES IST DER CODE DAZU: <br/><br/> <img src=&quot;img&#47;guess_who.png&quot;/>', 
+                {'width': 200});">
+            </dd>
 
         <dt> Begriff 1</dt>
             <dd> <a onmouseover="nhpup.popup('So habe ich das gemacht: <br/><br/> <img src=&quot;guess_who.png&quot;/>', 
