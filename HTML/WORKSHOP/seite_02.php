@@ -13,7 +13,7 @@
        
         <?php
             for ($x = 1; $x <= 6; $x++) {
-                echo "<dt>#0".$x."</dt>
+                print "<dt>#0".$x."</dt>
                 <dd>
                 <a href=\"html/cb_0".$x.".php\"><img src=\"img/0".$x."_img.png\" alt=\"Simply Square\" 
                 onmouseover=\"nhpup.popup('DIES IST DER CODE DAZU: <br/><br/> <img src=&quot;img&#47;0".$x."_code.png&quot;/>', 
