@@ -69,4 +69,4 @@ cat = Bagger()
 print(cat.color)
 
 
-# Objects with funktions 
+# Objects with functions 
