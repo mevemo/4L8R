@@ -13,6 +13,6 @@ Außerdem soll es ein Ort sein, wo ich mir quasi ein paar cheatsheets für die v
 # Kommentar 
 -- Wer nicht mit der Zeit geht, geht mit der Zeit. --
 
-```python=
+```python=1
   this is a code snippit
 ```
