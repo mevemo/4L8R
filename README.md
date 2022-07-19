@@ -1,17 +1,11 @@
-# 4L8R - Mein Repo fuer die Umschulung
-this is my new test Repository
-
-# TRY OF ENGLISH
-My plan is to create a repository, which contains the information and code gathered during my year of study at GFN 
-
-# GERMAN
-Ich habe vor hier eine Sammlung der Informationen aus meinem Lehrjahr bei der GFN AG in Hamburg zu sammeln.
-
-Außerdem soll es ein Ort sein, wo ich mir quasi ein paar cheatsheets für die verschiedenen Sprachen erstelle und sammele. 
+# 4L8R 
+## - A collection of notes and hints I accumulated during my training as an application developer
 
 
-# Kommentar 
--- Wer nicht mit der Zeit geht, geht mit der Zeit. --
+The plan is to create a repository, which contains the information and code gathered during my year of study at GFN 
+
+Furthermore this place is intended for gathering code examples and cheatsheets. 
+
 
 ```python=1
   this is a code snippit
